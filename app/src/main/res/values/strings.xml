@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juego</string>
+    <string-array name="avatares">
+        <item>Avatar1</item>
+        <item>Avatar2</item>
+        <item>Avatar3</item>
+    </string-array>
+
+    <string name="insects">Insectos</string>
+    <string name="animals">Mamíferos</string>
+
+    <string name="correct">CORRECTO</string>
+    <string name="incorrect">INCORRECTO</string>
+</resources>

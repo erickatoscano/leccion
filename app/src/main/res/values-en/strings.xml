@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game</string>
+
+    <string-array name="avatares">
+        <item>Avatar1</item>
+        <item>Avatar2</item>
+        <item>Avatar3</item>
+    </string-array>
+
+    <string name="insects">Insects</string>
+    <string name="animals">Animals</string>
+
+
+    <string name="correct">CORRECT</string>
+    <string name="incorrect">WORNG</string>
+</resources>
